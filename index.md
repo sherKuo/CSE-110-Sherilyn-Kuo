@@ -16,7 +16,7 @@ Links: My favorite search engine is [Google](https://www.google.com/).
 
 Section links: [My user header](https://github.com/sherKuo/CSE-110-Sherilyn-Kuo/tree/add-read-me#sherilyn-kuos-user-page)
 
-Relative links:
+Relative links: [My README.md](https://github.com/sherKuo/CSE-110-Sherilyn-Kuo/blob/main/README.md)
 
 ![Picture of a cat](https://cdn.theatlantic.com/thumbor/Kto-jp-IrA7TydSu5W5uB1FBDmA=/0x131:2555x1568/1952x1098/media/img/mt/2017/06/shutterstock_319985324/original.jpg)
 
